@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+}
+
+.Box1{
+	background-color: magenta;
+	width: 30%;
+	height: 50px;
+	float: left;
+}
+
+.Box2{
+	background-color: grey;
+	width: 70%;
+	height: 50px;
+	float: right;
+	}
+	
+		
+.Box3{
+	background-color: pink;
+	width: 80%;
+	height: 70px;
+	float: left;
+	}	
+	
+.Box4{
+	background-color: beige;
+	width: 20%;
+	height: 70px;
+	float: right;
+	}
+	
+.Box5{
+	background-color: green;
+	width: 33.3%;
+	height: 90px;
+	float: left;
+	}
+
+
+.Box6{
+	background-color: blue;
+	width: 33.3%;
+	height: 90px;
+	float: left;
+	}
+
+
+.Box7{
+	background-color: yellow;
+	width: 33.3%;
+	height: 90px;
+	float: left;
+	}
+	
+
+.Box8{
+	background-color: orange;
+	height: 100px;
+	clear: both;
+	position: relative;
+	right: 60%;
+	}
+	
+	
+.Box9{
+	background-color: purple;
+	height: 80px;
+	clear: both;
+	position: relative;
+	left: 80%;
+	}
+	
+	
+
+	
